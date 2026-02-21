@@ -1,0 +1,7 @@
+streamlit
+pandas
+playwright
+asyncio
+mistralai
+python-dotenv
+openpyxl
